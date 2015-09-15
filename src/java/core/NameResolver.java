@@ -31,9 +31,11 @@ public class NameResolver {
         //Forzosamente son tres componentes por cada elemento 
         if(separated.length % 3 != 0) return "Formato inválido";
         
+        System.out.println("String Received: " + compuesto);
+        
         //Recuperacion de datos
-        int sizeA = Integer.parseInt(separated[2]);
-        int sizeB = Integer.parseInt(separated[5]);
+        int sizeA = Integer.parseInt(separated[0]) * Integer.parseInt(separated[2]);
+        int sizeB = Integer.parseInt(separated[3]) * Integer.parseInt(separated[5]);
         String elemA = separated[1];
         String elemB = separated[4];
         

@@ -3,8 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Ivan%20Tovar/Documents/NetBeansProjects/ChemistryServices/src/java/webservices/CompuestosService.java</file>
             <file>file:/C:/Users/Ivan%20Tovar/Documents/NetBeansProjects/ChemistryServices/src/java/webservices/ElementosFacadeREST.java</file>
+            <file>file:/C:/Users/Ivan%20Tovar/Documents/NetBeansProjects/ChemistryServices/src/java/entities/Compuesto.java</file>
+            <file>file:/C:/Users/Ivan%20Tovar/Documents/NetBeansProjects/ChemistryServices/src/java/core/CompoundDataCalculator.java</file>
         </group>
     </open-files>
 </project-private>
